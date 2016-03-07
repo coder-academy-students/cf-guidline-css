@@ -1,4 +1,4 @@
-![alt text](https://github.com/coder-factory-academy/cf-guidline-css/blob/master/CFA.png "Logo Coder Factory")
+->![alt text](https://github.com/coder-factory-academy/cf-guidline-css/blob/master/CFA.png "Logo Coder Factory")<-
 
 # Coder Factory CSS Design Guideline
 Coder Factory Guideline CSS Design
