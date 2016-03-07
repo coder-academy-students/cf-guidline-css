@@ -3,10 +3,21 @@
 # Coder Factory CSS Design Guideline
 Coder Factory Guideline CSS Design
 
-To prevent custom CSS clashing with classes or names of imported css libraries from third parties such as bootstrap or materializecss, Coder Factory designers are reccommended to code using the following principals for consitancy, readablity and familiarity.
+### CSS File names
+So that Coder Factory staff can differentiate between Coder factory css files and third party css files, we reccommend that file names be prepended with "cf_"
 
-### "cf-" Name convention
-It's reccommended by the team that each css class begins with the "cf-" name followed by the css class name.
+i.e.
+```
+bootstrap.css
+cf_styles.css
+cf_main.css
+```
+
+
+### "cf-" Name convention for CSS
+To prevent custom CSS clashing with classes or names of imported css libraries from third parties such as bootstrap or materializecss, Coder Factory designers can use the following convention for consitancy, readablity and familiarity.
+
+We reccommended that each css class begins with the "cf-" name followed by the css class name.
 
 i.e.
 ```
