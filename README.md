@@ -3,7 +3,7 @@ Coder Factory Guideline CSS Design
 
 To prevent custom CSS clashing with classes or names of imported css libraries from third parties such as bootstrap or materializecss, Coder Factory designers are reccommended to code using the following principals for consitancy, readablity and familiarity.
 
-### H3 CF Name convention
+### CF Name convention
 It's reccommended by the team that each css class begins with the "cf-" name followed by the css class name.
 
 i.e.
