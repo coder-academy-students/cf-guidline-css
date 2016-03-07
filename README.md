@@ -1,4 +1,4 @@
-![alt text](https://github.com/coder-factory-academy/cf-guidline-css/master/Coderfactory_Logo_RGB.png"Logo Title Text 1")
+![alt text](https://github.com/coder-factory-academy/cf-guidline-css/master/Coderfactory_Logo_RGB.png "Logo Title Text 1")
 
 # Coder Factory CSS Design Guideline
 Coder Factory Guideline CSS Design
